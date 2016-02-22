@@ -1,5 +1,5 @@
 # Flare
-
+..
 Flare allows users with mobile devices to discover and interact with things in an environment. It combines multiple location technologies with a realtime communications architecture, to enable new kinds of user interactions. 
 
 - [DevNet site](http://devnet-stage.kpimdp.com/site/flare/)
